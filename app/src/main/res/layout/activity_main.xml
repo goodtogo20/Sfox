@@ -20,6 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true">
+<<<<<<< HEAD
         <TextView
             android:id="@+id/sfox"
             android:layout_width="wrap_content"
@@ -40,5 +41,27 @@
             android:textColor="#fff"
             android:layout_toRightOf="@id/sfox"
             />
+=======
+    <TextView
+        android:id="@+id/sfox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/relishbold"
+        android:text="SFox "
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:layout_marginTop="450dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/relish"
+        android:layout_marginTop="450dp"
+        android:text="Web"
+        android:textSize="30sp"
+        android:textColor="#fff"
+        android:layout_toRightOf="@id/sfox"
+        />
+>>>>>>> 5b63031e2f85c7422f1b5e3a03615fdca2f700ac
     </RelativeLayout>
 </RelativeLayout>

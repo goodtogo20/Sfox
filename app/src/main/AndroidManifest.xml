@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.sfox2">
 
     <uses-permission android:name="android.permission.INTERNET" />
+=======
+    package="com.example.sfoxv1">
+>>>>>>> 5b63031e2f85c7422f1b5e3a03615fdca2f700ac
 
     <application
         android:allowBackup="true"
@@ -11,8 +15,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".Main3Activity"></activity>
         <activity android:name=".Main2Activity" />
+=======
+        <activity android:name=".Main2Activity"></activity>
+>>>>>>> 5b63031e2f85c7422f1b5e3a03615fdca2f700ac
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,2 +1,6 @@
 include ':app'
+<<<<<<< HEAD
 rootProject.name='sfox2'
+=======
+rootProject.name='sfoxv1'
+>>>>>>> 5b63031e2f85c7422f1b5e3a03615fdca2f700ac
